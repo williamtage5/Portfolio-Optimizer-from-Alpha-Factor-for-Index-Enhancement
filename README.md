@@ -94,9 +94,6 @@ Notes:
 - `data/` and `outputs/` are ignored by Git.
 - `data_sample/` is intended for repo upload.
 
-
-以下是为您整理的该项目的中文版 Markdown 说明文档：
-
 ---
 
 # 组合优化回测框架
