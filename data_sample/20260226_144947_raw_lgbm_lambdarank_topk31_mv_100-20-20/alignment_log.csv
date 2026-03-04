@@ -1,0 +1,2 @@
+﻿date,raw_pred_count,dup_count,dup_removed_count,code_invalid_count,industry_missing_count,mv_missing_count,bench_missing_count,final_universe_count,wbench_sum_before,wbench_sum_after
+20200703,3948,0,0,6,85,0,3557,3857,0.9999939999999999,1.0

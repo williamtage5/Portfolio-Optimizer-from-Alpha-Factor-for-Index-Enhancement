@@ -1,0 +1,20 @@
+# Outputs
+outputs/
+
+# Raw data (keep sample data)
+data/
+!data_sample/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual envs
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+组合优化示例说明文档.pdf
